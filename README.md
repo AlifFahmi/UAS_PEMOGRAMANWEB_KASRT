@@ -7,8 +7,9 @@
 ### Link Website : http://aliffahmi.my.id/
 ### Link Youtube : https://youtu.be/9I3tDuIEhyA
 
-## Petunjuk Login
-Email : aliffahmi@hmail.com
+### Petunjuk Login
+Email : aliffahmi@gmail.com
+
 Pw    : alif123
 
 ### Terimakasih
